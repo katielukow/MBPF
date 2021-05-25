@@ -1,1 +1,1 @@
-# **M**odular **B**attery **P**ressure **F**ixtures
+# Modular Battery Pressure Fixtures
