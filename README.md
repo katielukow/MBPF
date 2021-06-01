@@ -21,8 +21,26 @@ Two busbars are clamped onto the battery tabs with M6 bronze fasteners for curre
 An exploded view of the assembly can be found in the image below with a bill of materials available in Table 1.
 
 ![assemblyexplodedview](https://user-images.githubusercontent.com/58944924/120325364-79afec00-c2df-11eb-8f24-3a59e36b4c51.jpeg)
-
+  
 | Part Number | Part Name | Quantity |
-| ------------- | ------------- | ------------- |
-| HVES-FIX-PRES-01  | Content Cell  | TEST |
-| Content Cell  | Content Cell  | TEST |
+| :-------------: | :-------------: | :-------------: |
+| HVES-FIX-PRES-01  | Pouch Pressure Fixture - Top | 2 |
+| HVES-FIX-PRES-02  | Pouch Pressure Fixture - Bottom | 1 |
+| HVES-FIX-PRES-03  | Copper Clamp - Bottom | 2 |
+| HVES-FIX-PRES-04  | Copper Clamp - Top | 2 |
+| HVES-FIX-PRES-05  | Clamp Holder| 1 |
+| HVES-FIX-PRES-07  | Voltage Sensing Plate | 2 |
+| HVES-FIX-PRES-08  | Tab Separator | 1 |
+| N/A  | M2.5X0.45 Grub Screw - 6mm Long | 8 |
+| N/A  | M3X0.5 Button Head Cap Screw - 6mm Long | 2 |
+| N/A  | M3X0.5 Button Head Cap Screw - 10mm Long | 8 |
+| N/A  | M4X0.7 Button Head Cap Screw - 10mm Long | 4 |
+| N/A  | M4X0.7 Hex Head Bolt - 60mm Long | 4-14 |
+| N/A  | M4X0.7 Hex Nut | 4 |
+| N/A  | M5X0.8 Button Head Cap Screw - 25mm Long | 1 |
+| N/A  | M5X0.8 Hex Nut | 1 |
+| N/A  | M6X1.0 Brass Hex Head Bolt - 25mm Long | 2 |
+| N/A  | M6 Brass Spring Washer | 2 |
+| N/A  | M6X1.0 Brass Hex Nut | 2 |
+| N/A  | 3mm X 6mm Long Nylon Dowel | 7 |
+
