@@ -1,1 +1,6 @@
-# Modular Battery Pressure Fixtures
+################################################################
+Modular Battery Pressure Fixture (MBPF)
+################################################################
+
+*Background*
+The High Voltage and Energy Storage Group (HVES) is a research group within the School of Engineering, Computing, and Mathematics at Oxford Brookes University. The group focuses is developing novel solutions to problems within the energy storage and future of transport fields. This includes multi-scale numerical modelling, electrochemical testing of lithium-ion batteries, and optimal control research for battery management and high-voltage powertrain systems. The group also has experience in optimal high power battery pack design and second-life applications of packs. Additional information can be found at hves.brookes.ac.uk. As part of the electrochemical testing, a fixture was designed to apply pressure to the outside faces of a lithium-ion pouch cell to provide a more accurate use case when completing cell level testing.
