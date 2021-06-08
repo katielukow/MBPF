@@ -4,7 +4,7 @@
 
 The High Voltage and Energy Storage Group (HVES) is a research group within the School of Engineering, Computing, and Mathematics at Oxford Brookes University. The group focuses is developing novel solutions to problems within the energy storage and future of transport fields. This includes multi-scale numerical modelling, electrochemical testing of lithium-ion batteries, and optimal control research for battery management and high-voltage powertrain systems. The group also has experience in optimal high power battery pack design and second-life applications of packs. Additional information can be found at https://hves.brookes.ac.uk. As part of the electrochemical testing, a fixture was designed to apply pressure to the outside faces of a lithium-ion pouch cell to provide a more accurate use case when completing cell level testing.
 
-![MBPF-Render](https://user-images.githubusercontent.com/58944924/120312966-4c5c4180-c2d1-11eb-95c7-c15c87876039.jpeg)
+![MBPF-Render-Asm](https://user-images.githubusercontent.com/58944924/121173642-f3e8ef00-c850-11eb-9546-4a400b0002a8.JPG)
 
 **Fixture Overview**
 
@@ -18,9 +18,9 @@ Two busbars are clamped onto the battery tabs with M6 bronze fasteners for curre
 
 **Exploded View & Bill of Materials**
 
-An exploded view of the assembly can be found in the image below with a bill of materials available in Table 1.
+An exploded view of the assembly can be found in the image below with a bill of materials available in the table below.
 
-![assemblyexplodedview](https://user-images.githubusercontent.com/58944924/120325364-79afec00-c2df-11eb-8f24-3a59e36b4c51.jpeg)
+![fullassemblyexploded](https://user-images.githubusercontent.com/58944924/121173963-52ae6880-c851-11eb-91bb-4670a1e6edb6.jpg)
   
 | Part Number | Part Name | Quantity |
 | :-------------: | :-------------: | :-------------: |
